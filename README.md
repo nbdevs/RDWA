@@ -1,3 +1,3 @@
-### Real-time Data Warehousing with Airflow
+# Real-time Data Warehousing with Airflow
 
-Real time data warehousing pipeline using airflow to schedule tasks/jobs.
+This repository stores all the development for the real time data warehousing pipeline.
