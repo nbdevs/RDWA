@@ -1,0 +1,8 @@
+[submodule "dag-development"]
+	path = dag-development
+	url = git@github.com:nbdevs/dag-development.git
+	branch = main
+[submodule "postgres-db-cluster"]
+	path = postgres-db-cluster
+	url = git@github.com:nbdevs/postgres-db-cluster.git
+	branch = main
