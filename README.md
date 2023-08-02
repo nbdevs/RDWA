@@ -63,6 +63,7 @@ An analyst who prepares the visualisation dashboard using metrics the client is 
 
 <div>
     <img src="https://github.com/nbdevs/dag-development/assets/75015699/f4d5b26b-2b80-4ad7-92af-8894571cf537" title="Software Overview" alt="software" width="413" height="90"/>&nbsp;
+    </>&nbsp;
     <img src="https://github.com/nbdevs/dag-development/assets/75015699/fbc07632-8350-4869-aa3a-ab3e7aaef9af" title="Hardware" width="426" height="150" alt="hardware"/>&nbsp;
 </div>
 
